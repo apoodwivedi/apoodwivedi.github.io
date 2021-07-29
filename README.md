@@ -1,2 +1,2 @@
-# apoodwivedi.github.io
- Resume website
+# Resume-website
+Personal portfolio website using HTML, CSS and JavaScript
